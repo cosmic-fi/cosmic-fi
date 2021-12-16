@@ -144,7 +144,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/kill3rBi4d/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/kill3rBi4d/kill3rBi4d/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
