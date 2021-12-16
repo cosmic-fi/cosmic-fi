@@ -1,11 +1,11 @@
-### Howdy there! Traveller👋
+### Hello there! Traveller👋
 
 ## It's me here, Yasin Vandry AKA _yasvan.
 
 ## 💻 &nbsp;Quick Self-Specs
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights mainly focusing on visual standards.
-- 🎓 &nbsp; Studying Computer Engineering at the University of Republic in Sivas/Turke.
+- 🎓 &nbsp; Studying Computer Engineering at the University of Republic in Sivas/Turkey.
 <br>
 
 ### 💻 Stacks I Work With
@@ -144,7 +144,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/kill3rBi4d/kill3rBi4d/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/kill3rBi4d/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
