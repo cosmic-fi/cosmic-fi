@@ -1,160 +1,133 @@
-### Hello there! Traveller👋
+<!--h1 without bottom border-->
 
-## It's me here, Yasin Vandry AKA _yasvan.
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Vanny</h1></summary>
+  </ul>
+</div>
 
-## 💻 &nbsp;Quick Self-Specs
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights mainly focusing on visual standards.
-- 🎓 &nbsp; Studying Computer Engineering at the University of Republic in Sivas/Turkey.
+<!--About Me-->
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+- :school: I am a dedicated Front-End and Software developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
+- :technologist: **Currently working on** `Frontend Development` **&** `User experience designing (UX)`
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:aliyasn5556@gmail.com)
+- :nerd_face: Always believe `"You are what you loved"`
+
 <br>
 
-### 💻 Stacks I Work With
-<p  align="center">
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-  </p>
-  <p  align="center">
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
- </p>
- 
- <p  align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  &nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-  &nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-</p>
+## 🛠️ My Skills
 
-<p align="center">
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![CSHARP](https://img.shields.io/badge/CS-A8B9CC?style=flat-square&logo=CSHARP&logoColor=blue)
+![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat-square&logo=Lua&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=black)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Vue](https://img.shields.io/badge/Electron.js-4FC08D?style=flat-square&logo=Electron.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+
+![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
+![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-007ACC?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android-Studio-F37626?style=flat-square&logo=Android-Studio&logoColor=green)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
 <br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
 
-  
-  
-  
-<table border="0" align="center">
-<tr border="0">
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kill3rBi4d&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=vanny-y&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kill3rBi4d&theme=dark&hide_border=true" />
-
-
-  
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vanny-y&theme=dark&hide_border=false" /> 
 </td>
 
+
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kill3rBi4d&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vanny-y&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
   </td>
 </tr>
 </table>
+<!--- stats (end) -->
 
-<br>
+<!--- trophy (start) -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                                    
-
-<br>
-<p align="center">
-<div align=center>
+<div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kill3rBi4d&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=vanny-y&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-</p>
+
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
 
 <br>
 
- <hr>
+<!--profile visit count-->
 
+<div align="center">
 
+[![](https://visitcount.itsvg.in/api?id=vanny-y&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
-
-
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kill3rBi4d&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>😄 We can connect via</b></h3>
-  </div>
-<p align="center">
-<a href="https://au.linkedin.com/in/yasin-vandry/" target="_blank">
-  <img align="center" alt="Yasin Vandry | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/@bl_wire" target="_blank">
-  <img align="center" alt="Yasin Vandry | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/_yasvan/" target="_blank">
-  <img align="center" alt="Yasin Vandry | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:aliyasn5556@gmail.com" >
-  <img align="center" alt="Yasin Vandry | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100072417453784">
-    <img align="center" alt="Yasin Vandry | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/kill3rBi4d/count.svg" />  
+  <img src="https://profile-counter.glitch.me/vanny-y/count.svg" />  
 </p>
    
   
   <br>
   <p align="center">
-  <img src="https://github.com/kill3rBi4d/kill3rBi4d/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/vanny-y/vanny-y/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-
-
-
-------
-
-[_Yasvan](https://github.com/kill3rBi4d)
-
-Last Edited on: 14/12/2021
-
-
-------
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
