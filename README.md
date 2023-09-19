@@ -17,7 +17,6 @@
 - :technologist: **Currently working on** `Frontend Development` **&** `User experience designing (UX)`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:aliyasn5556@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
-
 <br>
 
 ## 🛠️ My Skills
@@ -72,8 +71,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-<br>
+### 😊 Support Me
+If you'd like to support me, you can contribute by buying us a coffee! Your support will help us enhance Ori and bring more features to you.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/vanny-y)
+<br>
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
@@ -119,9 +121,11 @@
 [![](https://visitcount.itsvg.in/api?id=vanny-y&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
+
 <br>
 <p align="center">
   <img src="https://github.com/vanny-y/vanny-y/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
