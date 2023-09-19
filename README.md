@@ -91,7 +91,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vanny-y&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vanny-y&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -119,14 +119,8 @@
 [![](https://visitcount.itsvg.in/api?id=vanny-y&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/vanny-y/count.svg" />  
-</p>
-   
-  
-  <br>
-  <p align="center">
+<br>
+<p align="center">
   <img src="https://github.com/vanny-y/vanny-y/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 <!--horizontal divider(gradiant)-->
