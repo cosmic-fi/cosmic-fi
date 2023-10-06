@@ -59,8 +59,8 @@ If you'd like to support me, you can contribute by buying us a coffee! Your supp
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
-<td width="50%" align="center" border="none">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=dark&show_icons=true&count_private=true" />
+<td width="30%" align="center" border="none">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=dark&show_icons=true&count_private=true" /> <br>
   <img  title="Cosmic-fi Streaks" alt="Cosmic-fi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-fi&theme=dark&hide_border=false" /> 
 </td>
 </tr>
