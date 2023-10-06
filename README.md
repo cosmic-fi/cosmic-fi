@@ -75,15 +75,15 @@ If you'd like to support me, you can contribute by buying us a coffee! Your supp
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=vanny-y&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vanny-y&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-fi&theme=dark&hide_border=false" /> 
 </td>
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vanny-y&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cosmic-fi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -94,7 +94,7 @@ If you'd like to support me, you can contribute by buying us a coffee! Your supp
 
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=vanny-y&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=cosmic-fi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -108,13 +108,13 @@ If you'd like to support me, you can contribute by buying us a coffee! Your supp
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=vanny-y&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cosmic-fi&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
 <br>
 <p align="center">
-  <img src="https://github.com/vanny-y/vanny-y/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/cosmic-fi/cosmic-fi/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <!--horizontal divider(gradiant)-->
