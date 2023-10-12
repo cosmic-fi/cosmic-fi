@@ -8,7 +8,6 @@ A dedicated Front-End and Software developer with a strong passion for creating 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/CS-A8B9CC?style=flat-square&logo=CSHARP&logoColor=blue)
 ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat-square&logo=Lua&logoColor=blue)
