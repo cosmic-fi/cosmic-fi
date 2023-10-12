@@ -1,10 +1,9 @@
 <!--h1 without bottom border-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About
+## [•] About
 
 A dedicated Front-End and Software developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
-**Currently working on** `Frontend Development` **&** `User experience designing (UX)`
 
-## 🛠️ Tools and Utilities
+## [•] Dev Tools
 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
@@ -46,12 +45,12 @@ A dedicated Front-End and Software developer with a strong passion for creating 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-### 😊 Support Me
+### 🍵 Buy me a Coffee
 If you'd like to support me, you can contribute by buying us a coffee! Your support will help us enhance Ori and bring more features to you.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/vanny_y)
 <br>
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
+## [•]  </picture> Stats
 
 <!--- stats & Trophy (start) -->
 
