@@ -46,7 +46,7 @@ A dedicated Front-End and Software developer with a strong passion for creating 
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
 ### 🍵 Buy me a Coffee
-If you'd like to support me, you can contribute by buying us a coffee! Your support will help us enhance Ori and bring more features to you.
+If you'd like to support me, you can contribute by buying me a coffee!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/vanny_y)
 <br>
