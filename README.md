@@ -4,6 +4,33 @@
 A dedicated Front-End and Software developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
 
 ## [•] Dev Tools
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![CSHARP](https://img.shields.io/badge/CS-A8B9CC?style=flat-square&logo=CSHARP&logoColor=blue)
+![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat-square&logo=Lua&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=black)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-007ACC?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android-Studio-F37626?style=flat-square&logo=Android-Studio&logoColor=green)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Vue](https://img.shields.io/badge/Electron.js-4FC08D?style=flat-square&logo=Electron.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
@@ -15,35 +42,10 @@ A dedicated Front-End and Software developer with a strong passion for creating 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Vue](https://img.shields.io/badge/Electron.js-4FC08D?style=flat-square&logo=Electron.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-007ACC?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android-Studio-F37626?style=flat-square&logo=Android-Studio&logoColor=green)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![CSHARP](https://img.shields.io/badge/CS-A8B9CC?style=flat-square&logo=CSHARP&logoColor=blue)
-![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat-square&logo=Lua&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=black)
 
 
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
 
 ### 🍵 Buy me a Coffee
 If you'd like to support me, you can contribute by buying me a coffee!
