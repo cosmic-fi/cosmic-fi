@@ -49,7 +49,7 @@ A dedicated Front-End developer with a strong passion for creating efficient, el
 ### 🍵 Buy me a Coffee
 If you'd like to support me, you can contribute by buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/cosmic_fi)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/cosmic-fi)
 <br>
 ## [•]  </picture> Stats
 
