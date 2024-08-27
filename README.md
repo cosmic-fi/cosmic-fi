@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 ## [•] About
 
-A dedicated Front-End and Software developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
+A dedicated Front-End developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
 
 ## [•] Dev Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
