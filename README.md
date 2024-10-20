@@ -3,6 +3,12 @@
 
 A dedicated Front-End developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
 
+<!--h1 without bottom border-->
+## [•] Portforlio
+<a href="https://cosmiclab.netlify.app/" title="COSMIC LAB">
+  <img src="https://cosmiclab.netlify.app/src/assets/banner.png" style="width: 100%" >
+</a>
+
 ## [•] Dev Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
