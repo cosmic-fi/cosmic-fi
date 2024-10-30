@@ -1,6 +1,6 @@
 ### Hi there, I'm COSMIC 👋
 <br>
-<a href="https://cosmiclab.netlify.app/" title="COSMIC LAB">
+<a href="https://cosmiclab.netlify.app/" title="COSMIC_O">
   <img src="https://cosmiclab.netlify.app/src/assets/banner.png" style="width: 100%" >
 </a>
 
