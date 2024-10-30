@@ -1,15 +1,31 @@
-<!--h1 without bottom border-->
-## About //
-
-A dedicated Front-End developer with a strong passion for creating efficient, elegant, and intuitive solutions to real-world problems. I thrive on challenges and enjoy exploring new technologies to expand my horizons.
-
-<!--h1 without bottom border-->
-## Portforlio //
+### Hi there, I'm COSMIC 👋
+<br>
 <a href="https://cosmiclab.netlify.app/" title="COSMIC LAB">
   <img src="https://cosmiclab.netlify.app/src/assets/banner.png" style="width: 100%" >
 </a>
 
-## Dev Tools //
+## 👨🏽‍🦱 About Me
+I'm a passionate developer with experience across different domains, from **front-end web development** to **game development** and **backend systems**. I love creating immersive experiences, whether through web applications or game projects. I’m especially interested in building **Minecraft plugins** and enhancing gameplay experiences!
+
+## 🧮 Frameworks & Tools
+- **Front-end Libraries**: React, Bootstrap
+- **Backend**: Express, REST APIs
+- **Game Engines**: Unity (C#), Roblox Studio (Lua)
+- **Other**: Git, MySQL, MongoDB, Firebase
+
+## 🌱 Current Interests
+I'm currently enhancing my skills in:
+- **Minecraft Plugin Development**: Crafting unique plugins that add new layers of fun to the Minecraft experience.
+- **Game Development**: Exploring Unity and Roblox Studio, creating beginner-level games, and learning new techniques in C# and Lua.
+- **Backend Mastery**: Continuing to improve my skills in backend development, exploring server-side logic, and API integration.
+
+## 🚀 Future Goals
+I’m excited to:
+- **Build advanced Minecraft plugins** and create unique game mechanics.
+- **Contribute to open-source** projects related to front-end and backend development.
+- Continue developing my **backend skills**, diving deeper into Node.js and learning more about databases and server-side architecture.
+
+## 🧩 Dev Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
@@ -48,16 +64,12 @@ A dedicated Front-End developer with a strong passion for creating efficient, el
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
 
-
-
-
-
 ### 🍵 Buy me a Coffee
 If you'd like to support me, you can contribute by buying me a coffee!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/cosmic_fi)
 <br>
-## [•]  </picture> Stats
+### 📊 Stats
 
 <!--- stats & Trophy (start) -->
 
