@@ -39,9 +39,9 @@ If you'd like to support me, you can contribute by buying me a coffee!
 ### 📊 Stats
 
 <!--- stats & Trophy (start) -->
+![cosmic-fi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cosmic-fi&theme=jolly&hide_border=true)
 
-<img  align="left"  src="https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=dark&show_icons=true&count_private=true" />
-<img  title="Cosmic-fi Streaks" alt="Cosmic-fi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-fi&theme=dark&hide_border=false" /> 
+![cosmic-fi's Stats](https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=jolly&show_icons=true&hide_border=true&count_private=false)
 <!--- stats (end) -->
 
 <br>
