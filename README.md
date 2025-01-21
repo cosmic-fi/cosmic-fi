@@ -6,7 +6,7 @@ There's nothing interesting about me I can tell you 😁!
 
 ## 🌱 Current Interests
 I'm currently enhancing my skills in:
-- **Game Development**: Exploring Unity and Roblox Studio, creating beginner-level games, and learning new techniques in C# and Lua.
+- **Game Development**: Exploring Unity, creating beginner-level games, and learning new techniques in C#.
 - **Backend Mastery**: Continuing to improve my skills in backend development, exploring server-side logic, and API integration.
 
 ## 🚀 Future Goals
