@@ -1,8 +1,10 @@
+
 ### Hi there traveler, I'm Cosmic 👋
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨🏽‍🦱 About Me
-There's nothing interesting about me I can tell you 😁!
+Just coding ✌️!
 
 ## 🌱 Current Interests
 I'm currently enhancing my skills in:
@@ -39,8 +41,6 @@ If you'd like to support me, you can contribute by buying me a coffee!
 ### 📊 Stats
 
 <!--- stats & Trophy (start) -->
-![cosmic-fi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cosmic-fi&theme=jolly&hide_border=true)
-
 ![cosmic-fi's Stats](https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=jolly&show_icons=true&hide_border=true&count_private=false)
 <!--- stats (end) -->
 
