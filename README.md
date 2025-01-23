@@ -20,16 +20,13 @@ I’m excited to:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/CS-A8B9CC?style=flat-square&logo=CSHARP&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-007ACC?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android-Studio-F37626?style=flat-square&logo=Android-Studio&logoColor=green)
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
