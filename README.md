@@ -30,11 +30,6 @@ I’m excited to:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
-### 🍵 Buy me a Coffee
-If you'd like to support me, you can contribute by buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/cosmic_fi)
-
 <hr>
 
 <!--- stats & Trophy (start) -->
