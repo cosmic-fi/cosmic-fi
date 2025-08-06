@@ -30,12 +30,6 @@ I’m excited to:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
-<hr>
-
-<!--- stats & Trophy (start) -->
-![cosmic-fi's Stats](https://github-readme-stats.vercel.app/api?username=cosmic-fi&theme=jolly&show_icons=true&hide_border=true&count_private=false)
-<!--- stats (end) -->
-
 <br>
 
 <!--horizontal divider(gradiant)-->
