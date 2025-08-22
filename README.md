@@ -21,6 +21,7 @@ I’m excited to:
 ![CSHARP](https://img.shields.io/badge/CS-A8B9CC?style=flat-square&logo=CSHARP&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Svelte](https://img.shields.io/badge/SvelteJS-orange?style=flat-square&logo=SvelteJS&logoColor=black)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-007ACC?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
