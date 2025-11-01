@@ -8,8 +8,6 @@ Outside of coding, I enjoy a bit of gaming 🎮 and music 🎶.
 
 ## Current Adventures  
 Right now I’m diving into **Svelte** and building fun little projects to sharpen my skills.  
-My main focus at the moment is a **Task Planner app** 🗓️ — think Google Calendar, but with smarter task automations and an enhanced workflow.  
-
 
 ## Goals  
 On my journey right now, I’m aiming to:  
