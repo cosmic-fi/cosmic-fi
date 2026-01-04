@@ -1,7 +1,7 @@
 <img width="1500" height="500" alt="[Loading Banner]" src="https://github.com/user-attachments/assets/f79711cd-4403-4996-9b72-75fe82d38d8d" />
 
 ## About Me  
-Hey, I’m **Cosmic** — making cool apps and learning along the way ✨  
+Hey, I’m **Cosmic** making cool apps and learning along the way ✨  
 I spend most of my time exploring new tech, coding experiments, and having fun with creative projects.  
 Outside of coding, I enjoy a bit of gaming 🎮 and music 🎶.  
 
