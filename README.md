@@ -1,19 +1,26 @@
 <div align="center">
-  <img  alt="Banner" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG94YTBoYmxnNnFibW5yeWdueW8zZHpwaGVkcHZ6YjJod3R2eGJvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" />
+  <img width="100%" alt="7d07a255678962d30d8717dcf5dbd266 (1)" src="https://github.com/user-attachments/assets/dd70a5f6-ccff-4313-9a9b-64fa5ca7aeb5" />
 </div>
+<br />
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-cosmicfi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cosmicfi.dev)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Cosmic--fi-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/Cosmic-fi)
+
+</div>
 <br />
 
 ## Hey, I'm Cosmic ✨
 
-I build things — Minecraft tools, web apps, dev tools, experiments, and whatever else sounds fun.
+I build things: Minecraft tools, web apps, dev tools, experiments, and whatever else sounds fun.
 Mostly JS/TS, across basically any web stack.
 
 <br />
 
 ## About
 
-I'm a developer who just likes **making cool stuff**. That means game launchers, skin viewers, API visualizers, idle clickers, browser tools, little experiments — whatever sparks curiosity. I'll jump into whatever the project needs. Right now I'm exploring **Svelte** and building things to sharpen my skills. Outside of code: gaming 🎮 and music 🎶.
+I'm a developer who just likes **making cool stuff** on the side. Tools, apps, little experiments, whatever sparks curiosity at the time. I'll jump into whatever the project needs. Right now I'm exploring **Next.js** and building things to sharpen my skills, speaking of things I've built with NextJs checkout my recent project [ [AlbionKit](https://albionkit.com) ]. Outside of code: gaming 🎮 and music 🎶.
 
 <br />
 
@@ -21,7 +28,7 @@ I'm a developer who just likes **making cool stuff**. That means game launchers,
 
 | ⬡ Minecraft tools | ⬡ Web apps | ⬡ Dev tools | ⬡ Experiments |
 |---|---|---|---|
-| Launchers, skin viewers, mod tools — custom experiences for Minecraft | SPAs, SSR sites, APIs — across any modern web stack | API visualizers, libraries, CLIs — things devs actually want | Games, idle clickers, creative projects — learning by building |
+| Launcher, skin viewer APIs & Libraries. Plugins | SPAs, SSR sites, APIs. Across any modern web stack | API visualizers, libraries, CLIs. Things devs actually want | Games, idle clickers, creative projects. Learning by building |
 
 <br />
 
@@ -64,19 +71,18 @@ I'm a developer who just likes **making cool stuff**. That means game launchers,
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-
 <br />
 
 ## Right now
 
 ```
-→  learning deeper Svelte + SvelteKit
-→  building tools I actually want to use
-→  exploring open source contributions
+→  Expanding my NextJs
+→  Building useful tools
+→  Exploring open source contributions
 ```
 
 <br />
 
 <div align="center">
-  <img width="1500" height="352" alt="Footer" src="https://github.com/user-attachments/assets/f3c399c9-733c-4c9d-a14b-a63903bd33d1" />
+  <img width="100%" alt="7d07a255678962d30d8717dcf5dbd266 (2)" src="https://github.com/user-attachments/assets/675149d8-cc91-4582-b657-2757d35fe3cd" />
 </div>
