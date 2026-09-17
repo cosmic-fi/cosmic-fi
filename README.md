@@ -82,7 +82,3 @@ I'm a developer who just likes **making cool stuff** on the side. Tools, apps, l
 ```
 
 <br />
-
-<div align="center">
-  <img width="100%" alt="7d07a255678962d30d8717dcf5dbd266 (2)" src="https://github.com/user-attachments/assets/675149d8-cc91-4582-b657-2757d35fe3cd" />
-</div>
